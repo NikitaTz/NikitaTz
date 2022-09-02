@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikitaTz
 - 👀 I’m interested in Java Script
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm currently studying to be a front-end developer
+- 💞️ I’m looking to collaborate on Java Script
+- 📫 You can contact me by email
 
 <!---
 NikitaTz/NikitaTz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
